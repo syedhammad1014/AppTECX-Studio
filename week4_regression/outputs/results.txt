@@ -1,0 +1,11 @@
+Linear Regression (diabetes): R2=0.453  RMSE=53.85
+
+Logistic Regression (churn): accuracy=0.787
+              precision    recall  f1-score   support
+
+           0       0.82      0.90      0.85       210
+           1       0.69      0.53      0.60        90
+
+    accuracy                           0.79       300
+   macro avg       0.75      0.71      0.73       300
+weighted avg       0.78      0.79      0.78       300

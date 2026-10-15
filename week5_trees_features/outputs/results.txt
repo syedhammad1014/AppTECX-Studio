@@ -1,0 +1,8 @@
+DecisionTree depth=2: accuracy=0.703  f1=0.022
+DecisionTree depth=3: accuracy=0.740  f1=0.304
+DecisionTree depth=5: accuracy=0.760  f1=0.550
+DecisionTree depth=8: accuracy=0.727  f1=0.500
+DecisionTree depth=None: accuracy=0.677  f1=0.492
+RandomForest (all features): accuracy=0.740  f1=0.466
+Top 6 features (ANOVA F): tenure_months, monthly_charges, support_calls, charges_per_month, is_new_customer, contract_two year
+RandomForest (top 6 features): accuracy=0.727  f1=0.468

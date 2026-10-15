@@ -1,0 +1,31 @@
+Raw shape: (1540, 10)
+
+Missing values before (internet_service NaN = customers with no internet):
+customer_id           0
+age                  93
+gender                0
+tenure_months         0
+monthly_charges      46
+total_charges        61
+contract              0
+support_calls         0
+internet_service    288
+churn                 0
+
+Duplicates removed: 40
+
+Outliers capped in monthly_charges: 21 (upper bound 133.81)
+
+Missing values after:
+customer_id         0
+age                 0
+gender              0
+tenure_months       0
+monthly_charges     0
+total_charges       0
+contract            0
+support_calls       0
+internet_service    0
+churn               0
+
+Clean shape: (1500, 10)

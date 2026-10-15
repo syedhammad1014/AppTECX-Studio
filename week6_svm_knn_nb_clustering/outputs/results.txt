@@ -1,0 +1,4 @@
+SVM (RBF): accuracy=0.978
+KNN (k=5): accuracy=0.933
+Naive Bayes: accuracy=0.978
+Silhouette by k: 2:0.259, 3:0.285, 4:0.260, 5:0.202, 6:0.237, 7:0.204
